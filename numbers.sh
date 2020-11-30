@@ -7,7 +7,7 @@ N=1
 
 while true
 do
-	if [ $NUM = $N ]
+	if [ "$NUM" = $N ]
 	then
 		break
 	else
